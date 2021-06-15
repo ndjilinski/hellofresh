@@ -10,8 +10,6 @@ Currently available
 
 [Italian kale risoni soup](PDF/italian-kale-risoni-soup-6087a3804f3aea532d3acc71-b24ee9fc.pdf)
 
-[Pelmeni.pdf](PDF/pelmeni.pdf)
-
 [Philly cheese beef sub](PDF/philly-cheese-beef-sub-6098d32afacb0c656621b186-d358d5b8.pdf)
 
 [Portuguese chicken](PDF/portuguese-chicken-606be983aae469066c2f34ae-324b280b.pdf)
@@ -30,4 +28,4 @@ Currently available
 
 ***
 
-Updated: Tue Jun 15 22:58:51 UTC 2021
+Updated: Tue Jun 15 23:02:02 UTC 2021
