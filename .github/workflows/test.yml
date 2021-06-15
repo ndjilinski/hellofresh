@@ -15,6 +15,21 @@ jobs:
 
     name: Update wiki
     steps:
+    - name: GIT checkout
+      uses: actions/checkout@v2
+      with:
+        path: hellofresh
+      
+    - name: run smth
+      run: |
+        cd ./hellofresh
+        date > ./wiki/updated.txt
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add ./wiki/*
+        git commit -m "generated"
+        git push
+      
     - uses: OrlovM/Wiki-Action@v1
       with:
         path: 'wiki/hellofresh'
