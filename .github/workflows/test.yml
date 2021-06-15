@@ -2,6 +2,8 @@ name: Test workflow
 
 on:
   push:
+    paths:
+    - 'PDF/**'
     branches:
     - main
 
