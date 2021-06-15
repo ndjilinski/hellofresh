@@ -27,7 +27,7 @@ jobs:
         echo "" >> ./README.md
         echo "***" >> ./README.md
         echo "" >> ./README.md
-        for i in `ls ./PDF`; do echo "[${i}](PDF/${i})\n"; done >> ./README.md
+        for i in `ls ./PDF`; do (echo "[${i}](PDF/${i})"; echo ""); done >> ./README.md
         echo "" >> ./README.md
         echo "Updated: `date`" >> ./README.md
         git config user.name github-actions
