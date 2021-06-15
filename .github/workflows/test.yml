@@ -28,6 +28,7 @@ jobs:
         echo "***" >> ./README.md
         echo "" >> ./README.md
         for i in `ls ./PDF`; do (food=`echo ${i} | sed 's/-[0-9a-f-]\{33\}//g' | sed 's/-/ /g'`;echo "[${food^}](PDF/${i})"; echo ""); done >> ./README.md
+        echo "***" >> ./README.md
         echo "" >> ./README.md
         echo "Updated: `date`" >> ./README.md
         git config user.name github-actions
