@@ -1,26 +1,24 @@
-name: Test workflow
+name: Update README.md
 
 on:
   push:
     paths:
-    - 'PDF/**'
+    - 'PDF/*.pdf'
     branches:
     - main
 
 jobs:
-  # This workflow contains a single job called "greet"
   update_wiki:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    name: Update wiki
+    name: pull repo
     steps:
     - name: GIT checkout
       uses: actions/checkout@v2
       with:
         path: hellofresh
       
-    - name: run smth
+    - name: run shell script
       run: |
         cd ./hellofresh
         echo "Currently available" > ./README.md
