@@ -4,6 +4,8 @@ Currently available
 
 [Caribbean chicken with coconut rice](PDF/caribbean-chicken-with-coconut-rice-606bba9dee79bd729d26903a-cf89b47e.pdf)
 
+[Chicken tikka garlic rice](PDF/chicken-tikka-garlic-rice.pdf)
+
 [Chorizo roasted cherry tomato spinach risotto](PDF/chorizo-roasted-cherry-tomato-spinach-risotto-60866a037d0a2d62370b7d26-f62d5172.pdf)
 
 [Garlic herb chicken](PDF/garlic-herb-chicken-606c12f83b12d47bde117e19-40144682.pdf)
@@ -28,4 +30,4 @@ Currently available
 
 ***
 
-Updated: Tue Jun 15 23:02:02 UTC 2021
+Updated: Wed Jun 16 10:33:53 UTC 2021
