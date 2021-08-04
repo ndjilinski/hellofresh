@@ -44,6 +44,8 @@ Currently available
 
 [Salmon ginger oyster sauce](PDF/salmon-ginger-oyster-sauce-6098d1acfacb0c656621b16c-a820cbdb.pdf)
 
+[Seared steak roast veggie toss](PDF/seared-steak-roast-veggie-toss-60d185150f4bcf57c427f219-71c788b0.pdf)
+
 [Speedy bacon cheese fettuccine](PDF/speedy-bacon-cheese-fettuccine-6098d0cdeffb7a7f733fcd4e-7381f1ae.pdf)
 
 [Thai green curry with chicken for dinner](PDF/thai-green-curry-with-chicken-for-dinner-60a31338ab0714140676ac8c-483c851c.pdf)
@@ -56,4 +58,4 @@ Currently available
 
 ***
 
-Updated: Fri Jul 23 07:09:19 UTC 2021
+Updated: Wed Aug  4 01:22:53 UTC 2021
